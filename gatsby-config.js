@@ -24,9 +24,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Dhaiwat Pandya - Portfolio`,
+        short_name: `Dhaiwat Pandya`,
+        description: `Dhaiwat Pandya - a software engineer and a life-long learner.`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
